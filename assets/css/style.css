@@ -637,7 +637,12 @@ section .container {
   margin-bottom: 20px;
   color: #fff;
 }
-
+.btn{
+  color: white;
+  font-size: 16px;
+  background: rgba(255, 255, 255, 0.15);
+  padding: 5px 20px;
+}
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
